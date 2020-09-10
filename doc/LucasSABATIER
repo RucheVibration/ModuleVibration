@@ -1,4 +1,6 @@
 10/09/2020 :
 
 - Début du projet
-- Définition du Projet : 
+- Définition du Projet : Module Interne 
+- Lecture et vérification de la conception faite par les précédents étudiants
+  => Erreur dans l'accéléromètre : fréquence d'echantillonage limitée à 800Hz par le capteur
