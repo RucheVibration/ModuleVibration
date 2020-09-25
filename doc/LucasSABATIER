@@ -4,3 +4,7 @@
 - Définition du Projet : Module Interne 
 - Lecture et vérification de la conception faite par les précédents étudiants
   => Erreur dans l'accéléromètre : fréquence d'echantillonage limitée à 800Hz par le capteur
+  La fréquence d'echantillonage doit être supérieure à 10 fois la fréquence mesurée pour récupérer convenablement le signal.
+  Nouveaux composants : MM7150 && ADXL345
+  Liens : - MM7150 : https://fr.rs-online.com/web/p/modules-de-developpement-pour-capteurs/7946732/
+          - ADXL345 : https://www.amazon.fr/ADXL345-acc%C3%A9l%C3%A9rom%C3%A8tre-G-Sensor-Arduino-Raspberry/dp/B07F8831KH 
