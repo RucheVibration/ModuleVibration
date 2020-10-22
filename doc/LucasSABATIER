@@ -21,4 +21,6 @@
   - Premier téléversement réussi
   - établissement du programme pour le module CCS811 (récupération CO2)
   - Mise en place du sleep mode
+  - sleepmode : https://letmeknow.fr/shop/fr/blog/142-tutoriel-les-sleep-modes-de-lesp32
+  - choix du sleep mode : Deep sleep
   
