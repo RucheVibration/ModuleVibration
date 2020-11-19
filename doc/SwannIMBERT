@@ -1,1 +1,14 @@
 
+
+
+25/09/2020 :
+
+  - Etablissement du CDC
+  - Test du bon fonctionnement des composants
+  
+22/10/2020 :
+
+  - début de programmation de l'ESP32.
+  - Premier téléversement réussi
+  - établissement du programme pour le module CCS811 (récupération CO2)
+  - Mise en place du sleep mode
