@@ -9,5 +9,24 @@
             - ADXL345 : https://www.amazon.fr/ADXL345-acc%C3%A9l%C3%A9rom%C3%A8tre-G-Sensor-Arduino-Raspberry/dp/B07F8831KH
             
   Séance du 25/09:
-            Test du capteur Son ADM401 sur l'oscilloscope avec Yanis.
-            (Test sur le maximum de bande passante possible)
+           - Test du capteur Son ADM401 sur l'oscilloscope avec Yanis.
+           - (Test sur le maximum de bande passante possible)
+
+  
+   22/10/2020 :
+
+  - début de programmation de l'ESP32.
+  - Premier téléversement réussi avec Lucas
+  
+  19/11/2020 :
+  
+   -soft du capteur son
+   -test du capteur accéleromètre
+   -Renseignement sur le logiciel pour faire un pcb
+   
+  26/11/2020 :
+
+   -Réalisation du pcb
+ 
+   
+   
