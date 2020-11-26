@@ -4,3 +4,28 @@
     Definition du projet.
     Lecture du projet des anciens éléves
     Premiere approche sur les differents modules à utiliser
+    
+    
+25/09/2020
+ 
+    Premiere approche de l'esp32:
+        -Premier televersement.
+        -Programme test, 
+        -Definir les pins d'entrées et de sorties ....
+ 
+22/10/2020
+
+    Suite de la programmation de l'esp32:
+        -Premier televersement ok
+        -Test capteur ADM401 avec un oscillosope + generateur de freq
+        -Programme module capteur son ADM401
+
+19/11/2020
+
+    Fin programmation ADM401 + debut test accéleromètre
+
+26/11/2020
+
+    -Essaie de l'acceleromètre
+    -Utilisation Lora
+    -Realisation programme final (tout module regroupe) 
