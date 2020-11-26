@@ -17,3 +17,10 @@
   - Premier téléversement réussi
   - établissement du programme pour le module CCS811 (récupération CO2)
   - Mise en place du sleep mode
+
+19/11/2020 :
+  - programmation pour capteur vibration 
+  - comparaison différents logiciels pour commencer le PCB
+  
+26/11/2020 : 
+  - Début de la réalisation du PCB
