@@ -1,5 +1,4 @@
 10/09/2020 :
-
   - Début du projet
   - Définition du Projet : Module Interne 
   - Lecture et vérification de la conception faite par les précédents étudiants
@@ -8,19 +7,29 @@
     Nouveaux composants : MM7150 && ADXL345
     Liens : - MM7150 : https://fr.rs-online.com/web/p/modules-de-developpement-pour-capteurs/7946732/
             - ADXL345 : https://www.amazon.fr/ADXL345-acc%C3%A9l%C3%A9rom%C3%A8tre-G-Sensor-Arduino-Raspberry/dp/B07F8831KH 
-
+  - (EDIT 26/11/2020 : Commande des capteurs changée : ajout d'un capteur piezoélectrique dans la commande)
 
 25/09/2020 :
-
-  - Etablissement du CDC
+  - Etablissement du cahier des charges et des fonctionnalités du projets
   - Test du bon fonctionnement des composants
   
 22/10/2020 :
-
   - début de programmation de l'ESP32.
   - Premier téléversement réussi
   - établissement du programme pour le module CCS811 (récupération CO2)
   - Mise en place du sleep mode
   - sleepmode : https://letmeknow.fr/shop/fr/blog/142-tutoriel-les-sleep-modes-de-lesp32
   - choix du sleep mode : Deep sleep
+  
+19/11/2020 :
+  - Capteur Piezoélectrique commandé a une fréquence d'echantillonage trop faible (180Hz) 
+    => voir s'il est possible de monter la fréquence en utilisant le capteur seul, sans module
+      (EDIT 26/11/2020 : Impossible de monter la fréquence)  
+    => Attente du prochain capteur commandé (sur Amazon)
+  - Début de l'établissement du schéma électrique final et téléchargement des softwares de conception
+  
+26/11/2020 :
+  - Démarrage du schéma électrique et du PCB pour prototypage
+  - Voir avec M. Peter pour voir méthode à choisir pour PCB (semaine Prochaine)
+  - Logiciel utilisé : Eagle
   
