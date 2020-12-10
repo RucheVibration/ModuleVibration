@@ -29,3 +29,16 @@
     -Essaie de l'acceleromètre
     -Utilisation Lora
     -Realisation programme final (tout module regroupe) 
+
+03-04/11/2020
+
+    -reprise de l'accelerometre car probleme une fois testé en situatiuon réelle
+    -Fusion entre le nouveau soft accelerometre et le soft pour réaliser une fft
+    -reprise Lora
+
+10/12/2020
+    
+    -Reprise du soft final (en modifiant la partie accelerometre et lora), le tout en multi-fichier    
+    -Teste du Lora à effectué en presentiel
+    
+    
