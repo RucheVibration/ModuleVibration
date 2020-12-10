@@ -13,7 +13,7 @@
            - (Test sur le maximum de bande passante possible)
 
   
-   22/10/2020 :
+  22/10/2020 :
 
   - début de programmation de l'ESP32.
   - Premier téléversement réussi avec Lucas
@@ -28,5 +28,15 @@
 
    -Suite du test pour le capteur et vibration 
  
+  03/12/2020 et 04/12/2020 :
+   
+   -Reprise de l'accéleromètre car problème lors de la mise en situation ( phase de test ) 
+   -Fusion de plusieurs programmes (Capteur de son/vibration et accélerometre)
+   
+   10/12/2020 : 
+   
+   -Reprise du soft final en modifiant la partie accélerometre et lora compressé en multi-fichiers
+   -Reste test lora à faire en presentiel
+   
    
    
